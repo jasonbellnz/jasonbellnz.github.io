@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+# Menus (site navigation) for your Jekyll website
+# https://rubygems.org/gems/jekyll-menus
+gem 'jekyll-menus', '~> 0.6.1'
